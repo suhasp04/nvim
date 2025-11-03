@@ -1,3 +1,3 @@
-require("set")
-require("remap")
+require("config.set")
+require("config.remap")
 require("config.lazy")
